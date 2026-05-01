@@ -28,7 +28,6 @@ It's a practical tool for language learners who want to hear a word or expressio
 
 ## Screenshots
 
-> *(Add screenshots here once the app is running — e.g. the main window with matches, the dark theme, a rendered preview)*
 
 ---
 
